@@ -3,6 +3,7 @@
 
 # Luomic Blog
 ![](./docs/images/kazuha.png)
+
 ![Node.js >= 22](https://img.shields.io/badge/node.js-%3E%3D22-brightgreen) 
 ![pnpm >= 11](https://img.shields.io/badge/pnpm-%3E%3D9-blue)
 ![Astro](https://img.shields.io/badge/Astro-7-orange)
