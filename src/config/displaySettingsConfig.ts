@@ -46,7 +46,7 @@ export const displaySettingsConfig: DisplaySettingsConfig =
 		fullscreenLayoutSwitchable: true,
 
 		// 水波纹动画开关
-		wavesSwitchable: true,
+		wavesSwitchable: false,
 
 		// 渐变过渡效果开关
 		gradientSwitchable: true,

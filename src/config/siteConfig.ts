@@ -22,11 +22,11 @@ const pages = resolvePageToggles({
 	// 项目展示页开关
 	projects: true,
 	// 相册页面开关
-	gallery: true,
+	gallery: false,
 	// 书签导航页面开关
 	booknav: true,
 	// 哔哩哔哩追番页面开关
-	bilibili: false,
+	bilibili: true,
 	// 番组计划页面开关
 	bangumi: false,
 	// VNDB页面开关
@@ -36,8 +36,9 @@ const pages = resolvePageToggles({
 
 	// ── 关于 (About) ──────────────────────────────────
 
+
 	// 打赏页面开关
-	sponsor: true,
+	sponsor: false,
 });
 
 export const siteConfig: SiteConfig = {
@@ -45,14 +46,14 @@ export const siteConfig: SiteConfig = {
 	title: "LuomicBlog",
 
 	// 站点副标题
-	subtitle: "神秘博客？",
+	subtitle: "博客",
 
 	// 站点 URL
 	site_url: "https://blog.luomic.com/",
 
 	// 站点描述
 	description:
-		"这个其实是Luomic个人博客网站（基于Firefly",
+		"这个其实是Luomic个人博客网站（基于Firefly）",
 
 	// 站点关键词
 	keywords: [

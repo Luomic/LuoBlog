@@ -32,7 +32,7 @@ export const coverImageConfig: CoverImageConfig = {
 		enable: true,
 		// 封面图API列表
 		apis: [
-			"https://uapis.cn/api/v1/random/image",
+			"https://api.vv1234.cn/bing/api/",
 		],
 	},
 };
