@@ -1,12 +1,9 @@
 
-<img src="./docs/images/kazuha.png" width = "350" height = "500" alt="Firefly" align=right />
-
 <div align="center">
 
 # Luomic Blog
-> 欢迎来到Luomic的blog
-> 
-> ![Node.js >= 22](https://img.shields.io/badge/node.js-%3E%3D22-brightgreen) 
+![](./docs/images/kazuha.png)
+![Node.js >= 22](https://img.shields.io/badge/node.js-%3E%3D22-brightgreen) 
 ![pnpm >= 11](https://img.shields.io/badge/pnpm-%3E%3D9-blue)
 ![Astro](https://img.shields.io/badge/Astro-7-orange)
 ![TypeScript](https://img.shields.io/badge/TypeScript-6-blue)
@@ -64,7 +61,7 @@
    安装命令： `pnpm install`
 
    [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/CuteLeaf/Firefly&project-name=Firefly&repository-name=Firefly)
-   [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/CuteLeaf/Firefly)         |
+   [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/CuteLeaf/Firefly)
 
 ## 🙏 致谢
 
