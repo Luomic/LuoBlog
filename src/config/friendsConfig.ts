@@ -33,8 +33,8 @@ export const friendsConfig: FriendLink[] = [
 	},
 	{
 		title: "椰子鸡的博客",
-		imgurl: "assets/images/logo/github.webp",
-		desc: "椰子鸡大人的博客，👻🌶️👻🌶️",
+		imgurl: "/assets/images/github.webp",
+		desc: "椰子鸡大人的博客，👻🌶️",
 		siteurl: "https://www.ficrousway.top",
 		tags: ["Blog"],
 		weight: 8,
@@ -42,7 +42,7 @@ export const friendsConfig: FriendLink[] = [
 	},
 	{
 		title: "肘子的博客",
-		imgurl: "assets/images/logo/github.webp",
+		imgurl: "/assets/images/github.webp",
 		desc: "哈基龙的博客",
 		siteurl: "https://milk-dragon.cn/",
 		tags: ["Blog"],
