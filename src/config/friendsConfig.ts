@@ -11,7 +11,7 @@ export const friendsPageConfig: FriendsPageConfig = {
 	description: "",
 
 	// 是否显示底部自定义内容（friends.mdx 中的内容）
-	showCustomContent: false,
+	showCustomContent: true,
 
 	// 是否显示评论区，需要先在commentConfig.ts启用评论系统
 	showComment: false,
@@ -28,6 +28,15 @@ export const friendsConfig: FriendLink[] = [
 		desc: "The web framework for content-driven websites. ⭐️ Star to support our work!",
 		siteurl: "https://github.com/withastro/astro",
 		tags: ["Framework"],
+		weight: 8,
+		enabled: true,
+	},
+	{
+		title: "椰子鸡的博客",
+		imgurl: "../src/assets/images/logo/github.webp",
+		desc: "椰子鸡大人的博客，👻🌶️👻🌶️",
+		siteurl: "https://www.ficrousway.top",
+		tags: ["Blog"],
 		weight: 8,
 		enabled: true,
 	},
