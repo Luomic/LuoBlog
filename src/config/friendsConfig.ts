@@ -40,6 +40,15 @@ export const friendsConfig: FriendLink[] = [
 		weight: 8,
 		enabled: true,
 	},
+	{
+		title: "肘子的博客",
+		imgurl: "../src/assets/images/logo/github.webp",
+		desc: "哈基龙的博客",
+		siteurl: "https://milk-dragon.cn/",
+		tags: ["Blog"],
+		weight: 8,
+		enabled: true,
+	},
 ];
 
 // 获取启用的友链并进行排序
