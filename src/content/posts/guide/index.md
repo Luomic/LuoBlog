@@ -29,7 +29,7 @@ dependencies {
 }
 ```
 
-> 注意需要先去 `HuggingFace` 等网站，寻找适配的 `oonx` 模型。
+> 注意需要先去 `HuggingFace` 等网站，寻找适配的 `onnx` 模型。
 
 一个完整的识别模型一般包含以下文件
 
@@ -52,7 +52,7 @@ flowchart TB
 - Canvas(手写画布逻辑)
 - ToBitmap(Canvas转位图)
 - LatexPreview(Latex预览)
-- Tokenizer(编码解码OONX的输出)
+- Tokenizer(编码解码ONNX的输出)
 - FormularRecognizer(识别器)
 
 
