@@ -21,7 +21,7 @@ seriesOrder: 1
 > 其中就包括基于`ONNX Runtime`快速输出`Latex`数学块、基于`llama.cpp`离线运行本地量化翻译模型。
 > 关于这方面技术和生态都比较成熟，底层架构涉及知识盲区，不作讨论。
 
-首先在 `build.gradle` 引入 `OONX Runtime`
+首先在 `build.gradle` 引入 `ONNX Runtime`
 
 ```kts
 dependencies {
