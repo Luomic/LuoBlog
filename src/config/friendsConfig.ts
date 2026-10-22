@@ -49,6 +49,15 @@ export const friendsConfig: FriendLink[] = [
 		weight: 8,
 		enabled: true,
 	},
+	{
+		title: "不吃香菜的博客",
+		imgurl: "/assets/images/github.webp",
+		desc: "神的博客",
+		siteurl: "https://blog.jieson.cn/",
+		tags: ["Blog"],
+		weight: 8,
+		enabled: true,
+	},
 ];
 
 // 获取启用的友链并进行排序
