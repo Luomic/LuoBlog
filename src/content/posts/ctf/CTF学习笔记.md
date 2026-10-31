@@ -1,12 +1,13 @@
 ---
 title: Linux基础命令与Python的基础
 published: 2026-10-22
-pinned: true
-description: 学习ctf
+pinned: false
+description: 随便学点东西
 image: ./images/ctf01.jpg
 tags:
-  - CTF
-category: CTF
+  - Linux
+  - Python
+category: Study
 series: 笔记
 seriesOrder: 1
 ---
@@ -24,7 +25,7 @@ seriesOrder: 1
 | `cd`  | 切换工作目录       | `cd /mnt/c/user/` | C盘                 |
 | `ls`  | 列出当前目录下的所有文件 | `ls -a`           | xxx.txt  basic.zip |
 
-![](images/ls.png)
+![445](images/ls.png)
 
 ## 二进制
 
